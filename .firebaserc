@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-project-name-7": {
+      "hosting": {
+        "my-project-name": [
+          "my-project-name-7"
+        ]
+      }
+    }
+  }
+}
